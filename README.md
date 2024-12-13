@@ -9,7 +9,7 @@ Using PIX2PIX for Synthesizing Computerized Tomographic Medical Images
 
 # References
 <pre>
-CycleGAN, 
+Pix2Pix, 
 paper: Isola, P., Zhu, J. Y., Zhou, T., & Efros, A. A. (2017). Image-to-image translation with conditional adversarial networks. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1125-1134).
 URL: https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix.git
 </pre>
